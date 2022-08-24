@@ -1,3 +1,19 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Report">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col11179</md:content-id>  <md:title>Education Leadership Review, Volume 11, Number 1; March 2010</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>en</md:language>              <md:uuid>312b9325-0505-4f11-ac5f-def7b8045cd4</md:uuid>
-<md:slug>education-leadership-review-volume-11-number-1-march-2010</md:slug>
-</metadata>  <col:content>          <col:module document="m33592"/>                            <col:module document="m33523"/>                            <col:module document="m33593"/>                            <col:module document="m33522"/>                            <col:module document="m33595"/>                            <col:module document="m33637"/>                    </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Report" authors="National Council of Professors  of Educational Administration">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11179</md:content-id>
+    <md:title>Education Leadership Review, Volume 11, Number 1; March 2010</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>312b9325-0505-4f11-ac5f-def7b8045cd4</md:uuid>
+    <md:slug>education-leadership-review-volume-11-number-1-march-2010</md:slug>
+  </metadata>
+  <col:content>
+    <col:module document="m33592"/>
+    <col:module document="m33523"/>
+    <col:module document="m33593"/>
+    <col:module document="m33522"/>
+    <col:module document="m33595"/>
+    <col:module document="m33637"/>
+  </col:content>
+</col:collection>
